@@ -1,0 +1,3 @@
+[submodule "submod1"]
+	path = submod1
+	url = https://github.com/umairnsr87/Data_Structures_Python.git
